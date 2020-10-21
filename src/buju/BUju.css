@@ -1,0 +1,23 @@
+#components-layout-demo-side .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  .ant-col-24{
+    background-color: rgb(38, 39, 39);
+    color: #fff;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 10vh;
+    padding-left: 50px;
+  }
+  .site-layout-background{
+    height: 150%;
+  }
+  .site-layout{
+    height: 625px;
+  }

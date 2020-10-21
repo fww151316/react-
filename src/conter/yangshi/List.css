@@ -1,0 +1,23 @@
+.site-layout-background,.ant-table-wrapper{
+  height: 100%;
+}
+.ant-layout-content{
+  height: 100%;
+}
+
+.ant-layout-content{
+  /* height: 500px; */
+}
+.ant-btn{
+  width: 40%;
+  margin-left: 10%;
+}
+.ant-spin-container{
+  height: 100%;
+}
+.ant-spin-nested-loading{
+  height: 100%;
+}
+.ant-table-body{
+  height: 600px;
+}

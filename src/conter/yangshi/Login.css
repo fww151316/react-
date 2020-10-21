@@ -1,0 +1,19 @@
+#root{
+    background: no-repeat url("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1127823858,2338570439&fm=26&gp=0.jpg");
+     background-size:100% 100%;
+}
+#basic{
+    padding-top: 260px;
+}
+.ant-form-item{
+    margin-left: -120px;
+}
+.ant-form-item-control{
+    width: 200px;
+}
+.ant-btn-primary{
+    width: 150px;
+}
+.ant-form-item-required{
+    font-weight: 900;
+}
