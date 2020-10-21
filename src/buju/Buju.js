@@ -47,9 +47,6 @@ class Jdbj extends React.Component {
                                 <Menu.Item key="2" icon={<PieChartOutlined />}>
                                     <NavLink to='/jdbj/jianjie'>添加用户</NavLink>
                                 </Menu.Item>
-                                <Menu.Item key="3" icon={<DesktopOutlined />}>
-                                    <NavLink to='/jdbj/luyan/:id'>留言评价</NavLink>
-                                </Menu.Item>
                                 <Menu.Item key="4" icon={<DesktopOutlined />}>
                                     <NavLink to='/jdbj/lianxi'> 联系方式</NavLink>
                                 </Menu.Item>
